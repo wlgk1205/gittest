@@ -11,4 +11,5 @@ public class indexController {
     public String index(Model model){
         return "index";
     }
+
 }
